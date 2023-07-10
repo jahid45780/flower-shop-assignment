@@ -5,7 +5,7 @@
 }
 .header-flower{
     display: flex;
-    background-color: rgb(238, 215, 215);
+    background-color: gainsboro ;
     align-items: center;
     justify-content: space-around;
     
@@ -48,4 +48,66 @@
     font-weight: bold;
 
      text-decoration: underline;
+}
+/* end flower */
+
+.bay-flower{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+}
+.bay-title2{
+    text-align: center;
+    padding: 15px;
+    
+}
+.samp{
+    color: green;
+    font-size: 35px;
+}
+/* end this */
+
+.insta{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+}
+.ja-img{
+    width: 200px;
+    height: 300px;
+
+}
+.end-ar{
+    display: flex;
+    justify-content: space-around;
+    padding: 35px;
+    margin: 40px;
+    background-image: url("back.jpg");
+    background-size: cover;
+    align-items: center;
+
+}
+
+.submit{
+    background-color: blanchedalmond;
+    padding: 5px;
+}
+
+.input-text{
+    padding: 5px;
+    color: rgb(151, 64, 64);
+}
+
+.footer-title{
+    text-align: center;
+    padding: 7px;
+    color: whitesmoke;
+    background-color: black;
+}
+
+.footer-samp{
+    color: chartreuse;
+    font-size: 20px;
 }

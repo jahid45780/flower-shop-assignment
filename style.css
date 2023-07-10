@@ -1,0 +1,51 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header-flower{
+    display: flex;
+    background-color: rgb(238, 215, 215);
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.flower1-img{
+    margin-bottom: 0px;
+}
+.header-title{
+    margin: 25px;
+}
+.header-btn{
+ background-color: brown;
+ padding: 7px;
+ border-radius: 3px;
+}
+.header-para{
+    font-size: 14px;
+
+}
+/* end header css */
+
+.main-title{
+    text-align: center;
+    margin: 25px;
+    padding: 23px;
+}
+.sec-pik{
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.fb-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px ;
+}
+.bn-para{
+    font-weight: bold;
+
+     text-decoration: underline;
+}

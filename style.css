@@ -9,9 +9,11 @@
     align-items: center;
     justify-content: space-around;
     
+    
 }
 .flower1-img{
-    margin-bottom: 0px;
+    display: block;
+    
 }
 .header-title{
     margin: 25px;
@@ -72,6 +74,7 @@
     display: flex;
     justify-content: center;
     gap: 10px;
+    margin: 30px;
     
 }
 .ja-img{
